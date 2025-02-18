@@ -46,7 +46,7 @@ To run this project, follow these steps
 
 ## Screenshots
 - **Main Interface**
-  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png).
+  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png)
   
 - **Selecting Image and writing the secret message**
   ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Selecting%20image%20and%20writing%20secret%20message.png)
