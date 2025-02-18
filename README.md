@@ -39,6 +39,9 @@ To run this project, follow these steps
   - Click the **Decrypt button**.
   - The hidden message will be displayed.
 ## Screenshots
+- **Main Interface**
+  [https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png]
+- 
 ## Conclusion
 - The Image Steganography project successfully implements the technique of hiding secret messages within images using LSB (Least Significant Bit) encoding. By leveraging 
    Python, OpenCV, Tkinter, and TtkBootstrap, the project provides a user-friendly GUI for encoding and decoding hidden text within images.
