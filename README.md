@@ -46,16 +46,16 @@ To run this project, follow these steps
 
 ## Screenshots
 - **Main Interface**
-  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png).
+  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png).
   
 - **Selecting Image and writing the secret message**
-  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Selecting%20image%20and%20writing%20secret%20message.png)
+  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Selecting%20image%20and%20writing%20secret%20message.png)
 
 - **Encrypting secret message**
-  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Encrypting%20message.png)
+  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Encrypting%20message.png)
 
 - **Decrypting the secret message and final output**
-  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Decrypting%20message%20and%20final%20output.png)
+  ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Decrypting%20message%20and%20final%20output.png)
 
 ## Conclusion
 - The Image Steganography project successfully implements the technique of hiding secret messages within images using LSB (Least Significant Bit) encoding. By leveraging 
