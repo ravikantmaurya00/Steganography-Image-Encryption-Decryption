@@ -3,18 +3,22 @@
 
 ## Introduction
 This project implements Image Steganography using Python, allowing users to hide a secret message inside an image and retrieve it later. It provides a Graphical User Interface (GUI) built using Tkinter and TtkBootstrap, while image processing is handled using OpenCV.
+
 ## Need for this Project
 With the increasing need for secure communication, traditional encryption methods alone may not be sufficient to protect sensitive data from cyber threats. Steganography offers a solution by concealing information within digital images, ensuring covert data transmission. This application aims to implement a robust steganographic technique to securely hide and retrieve data in images while maintaining their visual integrity. It will enhance data security, prevent unauthorized access, and provide a reliable method for confidential communication.
+
 ## Features
 - **Encode Text into Image:** Hide secret messages inside an image.
 - **Decode Text from Image:** Extract hidden messages from an image.
 - **User-Friendly GUI:** Built with Tkinter and TtkBootstrap for an enhanced UI experience.
 - **Supports Various Image Formats:** Works with PNG, JPG, and BMP.
 - **Efficient and Secure:** Uses bit manipulation techniques to store data without noticeable distortion.
+  
 ## Technologies Used
 - Python (Core Programming Language)
 - OpenCV (Image Processing)
 - Tkinter & TtkBootstrap (GUI Development)
+
 ## Installation
 To run this project, follow these steps
 - **Install Dependencies**
@@ -28,6 +32,7 @@ To run this project, follow these steps
         ``` pip install ttkbootstrap```
 - **Run the Application**
   ```python main.py```
+
 ## Usage
 - **Encoding a Message:**
   - Click  on **Open Image** to select  an image.
@@ -38,12 +43,20 @@ To run this project, follow these steps
   - Enter the Passcode to decrypt the secret message.
   - Click the **Decrypt button**.
   - The hidden message will be displayed.
+
 ## Screenshots
 - **Main Interface**
   [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png).
   
 - **Selecting Image and writing the secret message**
-  []( 
+  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Selecting%20image%20and%20writing%20secret%20message.png)
+
+- **Encrypting secret message**
+  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Encrypting%20message.png)
+
+- **Decrypting the secret message and final output**
+  [](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Decrypting%20message%20and%20final%20output.png)
+
 ## Conclusion
 - The Image Steganography project successfully implements the technique of hiding secret messages within images using LSB (Least Significant Bit) encoding. By leveraging 
    Python, OpenCV, Tkinter, and TtkBootstrap, the project provides a user-friendly GUI for encoding and decoding hidden text within images.
@@ -65,6 +78,7 @@ To run this project, follow these steps
 - **Expansion to Audio & Video Steganography :-**  Implement audio steganography to embed messages within sound waves. Develop video steganography, spreading hidden data 
     across multiple frames.
 - **Steganalysis Resistance :-**  Apply randomized bit encoding instead of simple LSB to avoid detection. Use anti-detection algorithms to counter steganalysis tools.
+
 ## Author
 ### Ravikant Maurya
 **GitHub:** @ravikantmaurya00
