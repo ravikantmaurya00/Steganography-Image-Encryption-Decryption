@@ -44,9 +44,19 @@ To run this project, follow these steps
   - Click the **Decrypt button**.
   - The hidden message will be displayed.
 ## Code
-![](
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/5.png)
 
-## Screenshots
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/6.png)
+
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/7.png)
+
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/8.png)
+
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/9.png)
+
+![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/10.png)
+
+## Screenshots or Output
 - **Main Interface**
   ![](https://github.com/ravikantmaurya00/Steganography-Image-Encryption-Decryption/blob/main/ScreenShot/Main%20interface.png)
   
