@@ -43,6 +43,8 @@ To run this project, follow these steps
   - Enter the Passcode to decrypt the secret message.
   - Click the **Decrypt button**.
   - The hidden message will be displayed.
+## Code
+![](
 
 ## Screenshots
 - **Main Interface**
